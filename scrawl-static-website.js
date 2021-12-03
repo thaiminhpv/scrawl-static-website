@@ -1,4 +1,4 @@
-import scrape from 'website-scraper';
+const scrape = require('website-scraper');
 
 const websiteUrl = 'https://www.website.com';
 const domain = 'website';
